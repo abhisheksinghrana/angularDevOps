@@ -25,16 +25,17 @@ pipeline {
         //     }
         // }
 
-        stage('Build') {
-            steps {
-                echo 'Building...'
-                sh 'npm run build'
-            }
-        }
+        // stage('Build') {
+        //     steps {
+        //         echo 'Building...'
+        //         sh 'npm run build'
+        //     }
+        // }
 
-        stage('Deploy') {
+        stage('Release') {
             steps {
                 echo 'Deploying....'
+                sh 'npx semantic-release'
             }
         }
     }
