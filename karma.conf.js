@@ -37,8 +37,9 @@ module.exports = function (config) {
     colors: true,
     logLevel: config.LOG_INFO,
     autoWatch: true,
-    browsers: ['Chrome'],
+    browsers: ['Chrome', 'ChromeHeadless'],
     singleRun: false,
     restartOnFileChange: true
   });
+  process.env.CHROME_BIN = require('puppeteer').executablePath()
 };
