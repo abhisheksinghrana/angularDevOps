@@ -46,7 +46,7 @@
   },
   "release": {
     "branches": [
-      "release"
+      "next"
     ]
   },
   "repository": {
