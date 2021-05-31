@@ -4,7 +4,6 @@ pipeline {
         nodejs 'NodeJS'
     }
     stages {
-        stages {
         stage('Installing NPM dependencies') {
             steps {
                 echo 'Installing packages...'
