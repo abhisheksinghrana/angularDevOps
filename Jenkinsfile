@@ -18,12 +18,12 @@ pipeline {
             }
         }
 
-        stage('Run Unit Test') {
-            steps {
-                echo 'Testing...'
-                sh 'npm test'
-            }
-        }
+        // stage('Run Unit Test') {
+        //     steps {
+        //         echo 'Testing...'
+        //         sh 'npm test'
+        //     }
+        // }
 
         stage('Build') {
             steps {
