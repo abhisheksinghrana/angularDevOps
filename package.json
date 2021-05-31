@@ -46,7 +46,7 @@
   },
   "release": {
     "branches": [
-      "origin/release"
+      "release"
     ]
   },
   "repository": {
