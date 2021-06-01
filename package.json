@@ -52,11 +52,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/abhisheksinghrana/angularDevOps.git"
-  },
-  "release": {
-    "branches": [
-      "master",
-      "release"
-    ]
   }
 }
