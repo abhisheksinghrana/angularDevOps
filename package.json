@@ -55,8 +55,8 @@
   },
   "release": {
     "branches": [
-      "origin/master",
-      "origin/release"
+      "master",
+      "release"
     ]
   }
 }
