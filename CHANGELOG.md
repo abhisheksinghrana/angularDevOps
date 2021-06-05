@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.0.3](https://github.com/abhisheksinghrana/angularDevOps/compare/v1.0.2...v1.0.3) (2021-06-05)
+
+
+### Bug Fixes
+
+* CI test ([250bd2c](https://github.com/abhisheksinghrana/angularDevOps/commit/250bd2c8f0c9852278f16c812ef1e19f6ece962d))
+
 ## [1.0.2](https://github.com/abhisheksinghrana/angularDevOps/compare/v1.0.1...v1.0.2) (2021-06-05)
 
 
