@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [2.1.1](https://github.com/abhisheksinghrana/angularDevOps/compare/v2.1.0...v2.1.1) (2021-06-05)
+
+
+### Bug Fixes
+
+* text change. ([30dab24](https://github.com/abhisheksinghrana/angularDevOps/commit/30dab24238fed0d1f5e0580e8fee8dd5ea7c0a39))
+
 # [2.1.0](https://github.com/abhisheksinghrana/angularDevOps/compare/v2.0.0...v2.1.0) (2021-06-05)
 
 
