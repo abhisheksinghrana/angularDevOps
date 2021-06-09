@@ -42,12 +42,7 @@
                 "changelogTitle": "# Semantic Versioning Changelog"
             }
         ],
-        [
-            "@semantic-release/npm",
-            {
-                "pkgRoot": "projects/my-lib"
-            }
-        ],
+        "@semantic-release/npm",
         [
             "@semantic-release/git",
             {
