@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.2.0](https://github.com/abhisheksinghrana/angularDevOps/compare/v2.1.2...v2.2.0) (2021-06-09)
+
+
+### Features
+
+* Internal package json update. ([9ad0e8f](https://github.com/abhisheksinghrana/angularDevOps/commit/9ad0e8f37b861d392410b318a4ee679490d32ab8))
+
 ## [2.1.2](https://github.com/abhisheksinghrana/angularDevOps/compare/v2.1.1...v2.1.2) (2021-06-07)
 
 
